@@ -5,7 +5,6 @@
 ## hh
 
 ## FAQ
-
 ### Where is the DLL?
 You can find the DLL in the [releases](https://github.com/cazamir/Azura/releases) tab, although it is highly recommended to build the source yourself.
 
