@@ -17,8 +17,7 @@ You can open the menu by pressing the "Insert" key on your keyboard. If you cann
 You can un-inject the cheat by pressing the "End" key on your keyboard. If you cannot find the End key on your keyboard, press "FN" + "M" Or use an [on-screen keyboard](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/os-features/on-screen-keyboard#enable-on-screen-keyboard).
 
 # Credits
-[Designer1337](https://github.com/designer1337)
-[EternityX](https://github.com/eternityx)
-[TsudaKageyu](https://github.com/TsudaKageyu)
-[CashSosa](https://www.unknowncheats.me/forum/members/2669363.html)
-
+[Designer1337](https://github.com/designer1337) <br />
+[EternityX](https://github.com/eternityx) <br />
+[TsudaKageyu](https://github.com/TsudaKageyu) <br />
+[CashSosa](https://www.unknowncheats.me/forum/members/2669363.html) <br />
