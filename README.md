@@ -17,7 +17,7 @@ You can open the menu by pressing the "Insert" key on your keyboard. If you cann
 You can un-inject the cheat by pressing the "End" key on your keyboard. If you cannot find the End key on your keyboard, press "FN" + "M" Or use an [on-screen keyboard](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/os-features/on-screen-keyboard#enable-on-screen-keyboard).
 
 # Credits
-[Designer1337](https://github.com/designer1337) <br />
-[EternityX](https://github.com/eternityx) <br />
-[TsudaKageyu](https://github.com/TsudaKageyu) <br />
-[CashSosa](https://www.unknowncheats.me/forum/members/2669363.html) <br />
+[Designer1337](https://github.com/designer1337) - [CS:GO Cheat base](https://github.com/designer1337/csgo-cheat-base) <br />
+[EternityX](https://github.com/eternityx) - Some Features pasted from [DEADCELL](https://github.com/EternityX/deadcell-csgo) <br />
+[TsudaKageyu](https://github.com/TsudaKageyu) - [MinHook](https://github.com/TsudaKageyu/minhook) <br />
+[CashSosa](https://www.unknowncheats.me/forum/members/2669363.html) - [GUI Framework](https://www.unknowncheats.me/forum/members/2669363.html) <br />
