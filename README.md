@@ -4,7 +4,7 @@
 
 ## Introduction
 Azura is a project I started working on around a month ago using [Designer](https://github.com/designer1337)'s CS:GO Cheat base. I've added alot of features and I am finally releasing it.
-FAQ Shown Below and Credits shown at the bottom.
+### FAQ Shown Below and Credits shown at the bottom.
 
 ## FAQ
 ### Where is the DLL?
