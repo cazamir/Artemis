@@ -18,6 +18,6 @@ You can un-inject the cheat by pressing the "End" key on your keyboard. If you c
 
 # Credits
 [Designer1337](https://github.com/designer1337) - [CS:GO Cheat base](https://github.com/designer1337/csgo-cheat-base) <br />
-[EternityX](https://github.com/eternityx) - Some Features pasted from [DEADCELL](https://github.com/EternityX/deadcell-csgo) <br />
+[EternityX](https://github.com/eternityx) - [DEADCELL](https://github.com/EternityX/deadcell-csgo) <br />
 [TsudaKageyu](https://github.com/TsudaKageyu) - [MinHook](https://github.com/TsudaKageyu/minhook) <br />
 [CashSosa](https://www.unknowncheats.me/forum/members/2669363.html) - [GUI Framework](https://www.unknowncheats.me/forum/members/2669363.html) <br />
