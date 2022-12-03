@@ -2,9 +2,10 @@
   <img width="360" height="202.5" src="https://i.imgur.com/0YUNZNS.png">
 </p>
 
+# Cheat release delayed due to personal problems
+
 ## Introduction
 Azura is a project I started working on around a month ago using [Designer](https://github.com/designer1337)'s CS:GO Cheat base. I've added alot of features and I am finally releasing it.
-### FAQ Shown Below and Credits shown at the bottom.
 
 ## FAQ
 ### Where is the DLL?
